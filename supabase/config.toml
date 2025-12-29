@@ -1,1 +1,10 @@
 project_id = "tiptuhufjftsnqieapvf"
+
+[functions.fetch-pnl-data]
+verify_jwt = false
+
+[functions.fetch-kol-trades]
+verify_jwt = false
+
+[functions.wallet-auth]
+verify_jwt = false
